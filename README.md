@@ -1,4 +1,4 @@
-
+# Experimentally Investigating three Properties of Large-Scale Real World Graphs
 The purpose of this project was to experiment with pseudo-random large-scale graphs. These graphs were meant to resemble real-world networks (such as the network of Facebook friends).
 
 The .pdf file describes the purpose of this project in more detail and reports on my findings.
